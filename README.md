@@ -52,7 +52,7 @@ https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d56
 
 #EXTINF:-1,tvg-logo=¨FILMES GOSPEL¨
 Group litle=¨RELIGOSO¨,
-https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1519910925.m3u8
+https://stmv1.srvif.com/gospelf/gospelf/chunklist_w354552820.m3u8
 
 
 
