@@ -23,7 +23,29 @@ URL DO FILME OU CANAL
 
 #EXTINF:-1,NICK JR http://tv.ec.cx:1935/redecanais-stream-nick/myStream/chunklist_w1116862459.m3u8
 
-#EXTINF:-1,RETRO CARTOON http://stmv2.srvstm.com/cartoonr/cartoonr/playlist.m3u8
+#EXTINF:-1,RETRO CARTOON https://stmv1.srvif.com/channel1/channel1/chunklist_w1914526966.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1,ANIME TV http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 
