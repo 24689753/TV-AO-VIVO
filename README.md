@@ -24,6 +24,23 @@ URL DO FILME OU CANAL
 #EXTINF:-1,NICK JR http://tv.ec.cx:1935/redecanais-stream-nick/myStream/chunklist_w1116862459.m3u8
 
 #EXTINF:-1,RETRO CARTOON https://stmv1.srvif.com/channel1/channel1/chunklist_w1914526966.m3u8
+#EXTINF:-1,TBS NEUS¨
+Group litle=¨NEWS¨,
+TBS NEWS
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
+
+
+#EXTINF:-1tvANIMAL PLANETL¨
+Group litle=¨TITULO GENERO¨,
+NOME DO FILME OU CANAL
+https://sfstatic.net/img/mainForm/search-panel-video.mp4
+
+#EXTINF:-TV IDL¨
+Group litle=¨TITULO GENERO¨,
+NOME DO FILME OU CANAL
+https://sfstatic.net/img/mainForm/search-panel-video.mp4
+![image](https://user-images.githubusercontent.com/93035988/138872203-adf24435-cc46-4969-862c-6255a834619a.png)
+
 
 
 
@@ -65,7 +82,7 @@ http://rtmp.9c2c.upx.net.br:1935/9c2c/myStream_all/live.m3u8
 
 
 
-#EXTINF:-1,tvg-logo=¨FOTO DO CANAL¨
+#EXTINF:-1,TBS NEWS¨
 Group litle=¨NEWS¨,
 TBS NEWS
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
