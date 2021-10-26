@@ -30,10 +30,10 @@ TBS NEWS
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
 
 
-#EXTINF:-1tvANIMAL PLANETL¨
+#EXTINF:-1¨NOVA PLY¨
 Group litle=¨TITULO GENERO¨,
 NOME DO FILME OU CANAL
-https://sfstatic.net/img/mainForm/search-panel-video.mp4
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1604585988.m3u8
 
 #EXTINF:-TV IDL¨
 Group litle=¨TITULO GENERO¨,
