@@ -96,7 +96,5 @@ https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1725171159.m3u8
 
 #EXTINF:-1,tvg-logo=¨CARTOON GOSPEL¨
 Group litle=¨religioso¨,
-CARTOON GOSPEL
-https://stmv1.srvif.c
 
 
