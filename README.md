@@ -23,23 +23,21 @@ URL DO FILME OU CANAL
 
 #EXTINF:-1,NICK JR http://tv.ec.cx:1935/redecanais-stream-nick/myStream/chunklist_w1116862459.m3u8
 
-#EXTINF:-1,RETRO CARTOON https://stmv1.srvif.com/channel1/channel1/chunklist_w1914526966.m3u8
+#EXTINF:-1,RETRO CARTOON
 #EXTINF:-1,TBS NEUS¨
 Group litle=¨NEWS¨,
 TBS NEWS
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
 
 
-#EXTINF:-1¨NOVA PLY¨
+#EXTINF:-1¨NOVA PLAY¨
 Group litle=¨TITULO GENERO¨,
 NOME DO FILME OU CANAL
-https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1604585988.m3u8
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w423970598.m3u8
 
 #EXTINF:-TV IDL¨
 Group litle=¨TITULO GENERO¨,
 NOME DO FILME OU CANAL
-https://sfstatic.net/img/mainForm/search-panel-video.mp4
-![image](https://user-images.githubusercontent.com/93035988/138872203-adf24435-cc46-4969-862c-6255a834619a.png)
 
 
 
@@ -64,13 +62,13 @@ https://sfstatic.net/img/mainForm/search-panel-video.mp4
 
 
 
-#EXTINF:-1,ANIME TV http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+
+#EXTINF:-1,ANIME TV 
 
 #EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/gloob.png",GLOOB http://95.141.32.136:8081/look/gloob/playlist.m3u8
 
 
-![image](https://user-images.githubusercontent.com/93035988/138750162-9f880347-7115-4445-8b9f-de398a660709.png)
-https://bit.ly/3jzRSWO
+
 
 #EXTINF:-1,tvg-logo=¨TV PLAY¨
 Group litle=¨RELIGIOSO¨,
@@ -87,11 +85,11 @@ Group litle=¨NEWS¨,
 TBS NEWS
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
 
-![image](https://user-images.githubusercontent.com/93035988/138754003-73558dcb-c474-464c-a6ad-e251da27f7cb.png)
+
 
 #EXTINF:-1,tvg-logo=¨FILMES GOSPEL¨
 Group litle=¨RELIGOSO¨,
-https://stmv1.srvif.com/gospelf/gospelf/chunklist_w354552820.m3u8
+https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1725171159.m3u8
 
 
 
@@ -99,6 +97,6 @@ https://stmv1.srvif.com/gospelf/gospelf/chunklist_w354552820.m3u8
 #EXTINF:-1,tvg-logo=¨CARTOON GOSPEL¨
 Group litle=¨religioso¨,
 CARTOON GOSPEL
-https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1528690254.m3u8
+https://stmv1.srvif.c
 
-![image](https://user-images.githubusercontent.com/93035988/138754394-1f62b768-481a-48b5-a29b-397cd1e576c6.png)
+
