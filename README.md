@@ -19,7 +19,7 @@ Group litle=¨TITULO GENERO¨,
 NOME DO FILME OU CANAL
 URL DO FILME OU CANAL
 
-#EXTINF:-1,DISNEY XD http://tv.ec.cx:1935/redecanais-stream-disneyxd/myStream/chunklist_w1378600076.m3u8
+#EXTINF:-1,home e helts https://canaismax.com/assistir-discovery-home-and-health-hd-ao-vivo-online-gratis-24-horas
 
 #EXTINF:-1,NICK JR http://tv.ec.cx:1935/redecanais-stream-nick/myStream/chunklist_w1116862459.m3u8
 
