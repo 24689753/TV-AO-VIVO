@@ -32,7 +32,9 @@ https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/chunklist_w102585
 
 #EXTINF:-1,tvg-logo=¨FILMES GOSPEL¨
 Group litle=¨RELIGOSO¨,
-https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1725171159.m3u8
+https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1528690254.m3u8
+
+
 
 
 
