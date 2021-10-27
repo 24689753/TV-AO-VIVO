@@ -11,10 +11,9 @@ Group litle=¨NOTICIAS¨,
 BAND
 https://evpp.mm.uol.com.br/geob_band/band/chunklist_w1184092499.m3u8
 
-#EXTINF:-1,tvg-logo=¨FOTO DO CANAL¨
-Group litle=¨TITULO GENERO¨,
-NOME DO FILME OU CANAL
-URL DO FILME OU CANAL
+#EXTINF:-1,tvg-logo=¨TV CINE¨
+Group litle=¨FILMES¨,
+https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w1691112716.m3u8
 
 #EXTINF:-1,TBS NEUS¨
 Group litle=¨NEWS¨
@@ -38,7 +37,7 @@ https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1725171159.m3u8
 
 
 
-#EXTINF:-1,tvg-logo=¨CARTOON GOSPEL¨
-Group litle=¨religioso¨,
+
+
 
 
