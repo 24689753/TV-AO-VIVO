@@ -41,6 +41,12 @@ https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/chunklist_w102585
 Group litle=¨RELIGOSO¨,
 https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1528690254.m3u8
 
+#EXTINF:-tvg-logo=¨ANIMAL PLANET¨
+Group litle=¨DOCUMENTARIO¨,
+https://xcui.xyz:8880/287994000027/287994000027/16693.M3U
+![image](https://user-images.githubusercontent.com/93035988/139159628-b6862000-c864-4289-a08f-f526e13d93a6.png)
+
+
 
 
 
