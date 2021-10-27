@@ -23,6 +23,13 @@ https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d56
 Group litle=¨religioso¨,
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w423970598.m3u8
 
+#EXTINF:-1,tvg-logo=¨religioso¨
+Group litle=¨TITULO GENERO¨,
+NOME DO FILME OU CANAL
+https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1528690254.m3u8
+
+![image](https://user-images.githubusercontent.com/93035988/139082922-f16179ea-9b98-4ee6-b552-a7913a46effc.png)
+
 #EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/gloob.png",GLOOB http://95.141.32.136:8081/look/gloob/playlist.m3u
 
 #EXTINF:-1,tvg-logo=¨TV PLAY¨
