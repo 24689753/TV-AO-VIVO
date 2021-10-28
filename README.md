@@ -43,7 +43,7 @@ https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1528690254.m3u8
 
 #EXTINF:-tvg-logo=¨ANIMAL PLANET¨
 Group litle=¨DOCUMENTARIO¨,
-https://xcui.xyz:8880/287994000027/287994000027/16693.m3u
+https://xcui.vitabc.xyz:8880/287994000027/287994000027/16693.m3u
 
 
 
